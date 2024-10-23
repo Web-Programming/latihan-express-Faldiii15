@@ -16,3 +16,4 @@ mongoose.connection.on("disconnected",() =>{
      
 
 });
+require("./mahasiswa");
